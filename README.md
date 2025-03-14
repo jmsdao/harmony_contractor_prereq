@@ -3,6 +3,7 @@
   - Have [Docker](https://docs.docker.com/engine/install/) installed (>= version 27.1)
   - Have [Docker Compose](https://docs.docker.com/compose/install/) installed (>=2.29.0)
   - Have [uv](https://docs.astral.sh/uv/getting-started/installation/) installed (>= version 0.5.1)
+    - Have Python 3.12 installed with uv: `uv python install 3.12`
 - Have [RealVNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) installed
 
 ## Testing that you pass the prereqs
